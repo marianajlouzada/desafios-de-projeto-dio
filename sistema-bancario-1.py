@@ -45,13 +45,6 @@ while True:
         print(f"=========================\n")
     elif opcao == 4:
         break
-<<<<<<< HEAD
-<<<<<<< HEAD
-    else: print("Opção inválida!")
-=======
-    else: print("Opção inválida!")
->>>>>>> ec8470536a336c647fe94c10a18075d82c7f4247
-=======
-    else: 
+    else:
         print("Opção inválida!")
->>>>>>> 81d3f916852554c5624ab71aae2e81af566802cf
+
